@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="left">
+  
+  <p><a href="https://www.linkedin.com/in/nadim-sheikh-b511709b/"><img alt="LinkedIn @NadimSheikh" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
+  
+</div>
+
 <!--
 **nadimsheikh07/nadimsheikh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
